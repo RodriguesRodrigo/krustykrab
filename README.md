@@ -21,3 +21,8 @@ mvnw spring-boot:run
 ```
 
 Caso esteja utilizando uma IDE, você pode rodar o projeto por ela :)
+
+# Melhorias
+
+ - Criação de testes.
+ - Passar os getters e setters da entidade Menu para uma DTO.
